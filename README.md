@@ -8,7 +8,7 @@ Solución del problema:
 
 Intrucciones de ejecución de solución:
   1. Abrir el link (https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true).
-  2. Abrir el archivo MaximumDrawssc.py y copiarlo.
+  2. Abrir el archivo MaximumDrawsSC.py y copiarlo.
   3. Sustituir el contenido de la consola que hay en la página con el que copiamos del archivo.
   4. Correr el código.
 
